@@ -21,10 +21,6 @@ done < "$subdomain_file"
 
 
 
-
-
-
-
 Save the script to a file (e.g., subdomain_enu.sh) and make it executable using the command chmod +x subdomain_enu.sh.
 Run the script using ./subdomain_enu.sh in the terminal.
 When prompted, enter the target domain you want to emulate subdomains for (e.g., vishnurai.com).
